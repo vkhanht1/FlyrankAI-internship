@@ -80,3 +80,6 @@ My initial assumption was that model tuning and algorithm selection would take u
 
 ## 4. What I Would Build Next
 If I were to take this project to the next version (v3), I would integrate an automated feedback loop where human edits on the triage queue are fed back into the training dataset as weak supervision signals, allowing the model to adapt dynamically to shifting editorial priorities.
+
+## Acknowledgments & data credit
+This project utilizes data and resources provided by [FlyRank](https://flyrank.ai).
