@@ -39,3 +39,7 @@ python work/scripts/run_pipeline.py
 ## Acknowledgments & Data Credit
 
 This project uses data from [flyrank.ai](https://flyrank.ai).
+
+## Acknowledgments & Data Credit
+
+This project uses data from [flyrank.ai](https://flyrank.ai).
