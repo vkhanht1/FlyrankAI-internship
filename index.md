@@ -34,3 +34,8 @@ To re-run the entire analysis from a fresh clone, execute the following commands
 ```bash
 pip install -r requirements.txt
 python work/scripts/run_pipeline.py
+```
+
+## Acknowledgments & Data Credit
+
+This project uses data from [flyrank.ai](https://flyrank.ai).
