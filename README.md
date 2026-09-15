@@ -31,7 +31,7 @@ python work/slot_specification.py
 ## 3. Usage Examples
 
 * **Generating the Triage Queue:** Execute the scoring module to output a risk-scored CSV file used by content teams to target declining pages.
-* **Viewing the Live Report:** Access the live published site at [https://vkhanht1.github.io/Flyrank-internship/](https://www.google.com/url?sa=E&source=gmail&q=https://vkhanht1.github.io/Flyrank-internship/).
+* **Viewing the Live Report:** Access the live published site at https://vkhanht1.github.io/FlyrankAI-internship/
 
 ## 4. Architecture Sketch
 
